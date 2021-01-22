@@ -1,0 +1,2 @@
+# Project-8-NLP_Keyword_Research_Pytrend
+ the Google API to access Google trends which can be done by using the pytrends library in python Google Trends is a keyword research tool that helps the researchers, bloggers, digital marketers and some more people in the digital industry to find how often a keyword is entered into Google search engine over a given period. Google Trends is used for keyword research mostly is writing articles on hot topics
